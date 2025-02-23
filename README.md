@@ -19,13 +19,13 @@ python main.py "I love movies that combine action and drama and also that are en
 ```
 
 ## Example Output
-                | title              | overview                                                       | similarity |
-                |--------------------|----------------------------------------------------------------|------------|
-                | Oceans             | An ecological drama/documentary, filmed throug...              | 0.101187   |
-                | Mad Max: Fury Road | An apocalyptic story set in the furthest reach...              | 0.087644   |
-                | The Lovers         | The Lovers is an epic romance time travel adve...              | 0.087430   |
-                | Epic               | A teenager finds herself transported to a deep...              | 0.073938   |
-                | Cold Mountain      | In this classic story of love and devotion set...              | 0.072537   |
+| title              | overview                                                       | similarity |
+|--------------------|----------------------------------------------------------------|------------|
+| Oceans             | An ecological drama/documentary, filmed throug...              | 0.101187   |
+| Mad Max: Fury Road | An apocalyptic story set in the furthest reach...              | 0.087644   |
+| The Lovers         | The Lovers is an epic romance time travel adve...              | 0.087430   |
+| Epic               | A teenager finds herself transported to a deep...              | 0.073938   |
+| Cold Mountain      | In this classic story of love and devotion set...              | 0.072537   |
 
 ## Salary Expectation
 $4000/month (Calculated as $25/hour).
